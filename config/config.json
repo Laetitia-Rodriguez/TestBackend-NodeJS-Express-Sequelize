@@ -2,21 +2,21 @@
   "development": {
     "username": "LaetitiaRodriguez",
     "password": "root",
-    "database": "database_development",
+    "database": "node_sequelize",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "test": {
     "username": "LaetitiaRodriguez",
     "password": "root",
-    "database": "database_test",
+    "database": "node_sequelize",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "production": {
     "username": "LaetitiaRodriguez",
     "password": "root",
-    "database": "database_production",
+    "database": "node_sequelize",
     "host": "127.0.0.1",
     "dialect": "postgres"
   }
