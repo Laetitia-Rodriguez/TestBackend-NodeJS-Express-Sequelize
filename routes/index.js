@@ -12,12 +12,12 @@ router.get('/', function(req, res, next) {
 /* Videos Router */
 router.get('/api/videos', videosController.list);
 router.get('/api/videos/:id', videosController.getById);
-router.get('/api/videos', videosController.add);
-router.get('/api/videos/:id', videosController.update);
-router.get('/api/videos/:id', videosController.delete);
+router.post('/api/videos', videosController.add);
+router.put('/api/videos/:id', videosController.update);
+router.delete('/api/videos/:id', videosController.delete);
 
 /* Tags Router */
-router.get('/api/tags', tagsController.add);
-router.get('/api/tags/:id', tagsController.delete);
+router.post('/api/tags', tagsController.add);
+router.delete('/api/tags/:id', tagsController.delete);
 
 module.exports = router;

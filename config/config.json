@@ -3,21 +3,21 @@
     "username": "LaetitiaRodriguez",
     "password": "root",
     "database": "node_sequelize",
-    "host": "127.0.0.1",
+    "host": "127.0.0.2",
     "dialect": "postgres"
   },
   "test": {
     "username": "LaetitiaRodriguez",
     "password": "root",
     "database": "node_sequelize",
-    "host": "127.0.0.1",
+    "host": "127.0.0.2",
     "dialect": "postgres"
   },
   "production": {
     "username": "LaetitiaRodriguez",
     "password": "root",
     "database": "node_sequelize",
-    "host": "127.0.0.1",
+    "host": "127.0.0.2",
     "dialect": "postgres"
   }
   

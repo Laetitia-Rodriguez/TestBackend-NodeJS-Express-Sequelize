@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="216" height="177" view_box="0 0 216 177"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:link="http://www.w3.org/1999/xlink">\n\n<desc>Généré par Mocodo 2.3.7 le Mon, 06 Sep 2021 05:10:50</desc>
+
+<rect id="frame" x="0" y="0" width="216" height="177" fill="#f7f7f7" stroke="none" stroke-width="0"/>
+
+<!-- Association is tagged as -->
+<line x1="48" y1="143" x2="163" y2="51" stroke="#d6604d" stroke-width="2"/>
+<text x="78" y="134.03330467" fill="#2166ac" font-family="Verdana" font-size="12">0,N</text>
+<line x1="48" y1="51" x2="163" y2="51" stroke="#d6604d" stroke-width="2"/>
+<text x="92" y="68.0" fill="#2166ac" font-family="Verdana" font-size="12">0,N</text>
+<g id="association-is tagged as">
+	<path d="M 193 26 a 14 14 90 0 1 14 14 V 51 h -88 V 40 a 14 14 90 0 1 14 -14" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+	<path d="M 207 51.0 v 11 a 14 14 90 0 1 -14 14 H 133 a 14 14 90 0 1 -14 -14 V 51.0 H 88" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+	<rect x="119" y="26" width="88" height="50" fill="none" rx="14" stroke="#d6604d" stroke-width="2"/>
+	<line x1="119" y1="51" x2="207" y2="51" stroke="#d6604d" stroke-width="1"/>
+	<text x="126" y="43.7" fill="#000000" font-family="Verdana" font-size="12">is tagged as</text>
+</g>
+
+<!-- Entity VIDEOS -->
+<g id="entity-VIDEOS">
+	<g id="frame-VIDEOS">
+		<rect x="9" y="9" width="78" height="25" fill="#92c5de" stroke="#92c5de" stroke-width="0"/>
+		<rect x="9" y="34.0" width="78" height="59" fill="#d1e5f0" stroke="#d1e5f0" stroke-width="0"/>
+		<rect x="9" y="9" width="78" height="84" fill="none" stroke="#4393c3" stroke-width="2"/>
+		<line x1="9" y1="34" x2="87" y2="34" stroke="#4393c3" stroke-width="1"/>
+	</g>
+	<text x="23" y="26.7" fill="#000000" font-family="Verdana" font-size="12">VIDEOS</text>
+	<text x="14" y="51.8" fill="#000000" font-family="Verdana" font-size="12">nom</text>
+	<line x1="14" y1="54" x2="42" y2="54" stroke="#000000" stroke-width="1"/>
+	<text x="14" y="68.8" fill="#000000" font-family="Verdana" font-size="12">description</text>
+	<text x="14" y="85.8" fill="#000000" font-family="Verdana" font-size="12">url</text>
+</g>
+
+<!-- Entity TAGS -->
+<g id="entity-TAGS">
+	<g id="frame-TAGS">
+		<rect x="23" y="118" width="50" height="25" fill="#92c5de" stroke="#92c5de" stroke-width="0"/>
+		<rect x="23" y="143.0" width="50" height="25" fill="#d1e5f0" stroke="#d1e5f0" stroke-width="0"/>
+		<rect x="23" y="118" width="50" height="50" fill="none" stroke="#4393c3" stroke-width="2"/>
+		<line x1="23" y1="143" x2="73" y2="143" stroke="#4393c3" stroke-width="1"/>
+	</g>
+	<text x="31" y="135.7" fill="#000000" font-family="Verdana" font-size="12">TAGS</text>
+	<text x="28" y="160.8" fill="#000000" font-family="Verdana" font-size="12">valeur</text>
+	<line x1="28" y1="163" x2="67" y2="163" stroke="#000000" stroke-width="1"/>
+</g>
+</svg>
